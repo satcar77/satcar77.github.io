@@ -113,7 +113,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #c0c0c0;
   letter-spacing: 0;
 }
+.masthead-title img {
+  width: 2.5em;
+  margin-bottom: -15px;
+  margin-top: -15px;
+  padding: 0;
 
+}
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;

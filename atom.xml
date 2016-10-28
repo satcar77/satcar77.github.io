@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Satkar Dhakal</title>
- <link href="http://satkardhakal.com.np/atom.xml" rel="self"/>
- <link href="http://satkardhakal.com.np/"/>
- <updated>2016-10-26T13:15:46+05:45</updated>
- <id>http://satkardhakal.com.np</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-10-28T20:23:29+05:45</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Satkar Dhakal</name>
    <email>satkardhakal@gmail.com</email>
