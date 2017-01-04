@@ -6,9 +6,9 @@ overflow-y: hidden;
 
 object{
 width: 100%;
-
+margin-top: -50px;
 display: block;
-padding: 50px;
+padding: 100px;
 
 }
 .icons img{
