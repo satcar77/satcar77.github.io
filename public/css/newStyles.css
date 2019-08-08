@@ -39,11 +39,4 @@
             transform: scale(2.5);
     
     }
-    
-   @keyframes draw{
-        0%  {stroke-dashoffset:800;}
-		   30%  {stroke-dashoffset:0;fill-opacity:0;}
-        50%{stroke-dashoffset:0;fill-opacity:1;}
-     70%{stroke-dashoffset:0;fill-opacity:0;}
-     100%{stroke-dashoffset:800;}
-    }
+
