@@ -2,9 +2,8 @@
   line-height: 1rem;
 }
 .page{
-  padding-left: 1rem;
-  padding-right: 1rem;
-  overflow-y: none;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .fab{
   color:#333;
